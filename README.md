@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Snigdha Anjali
-- 👀 I’m interested in ...
+- 👀 I’m interested in Machine learning, web development
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on advance python based projects
 
